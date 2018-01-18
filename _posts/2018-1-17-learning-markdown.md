@@ -3,7 +3,7 @@ layout: post
 title: Learning Markdown
 ---
 <div class="img_center">
-![Markdown Logo](images/markdown-mark.svg)
+![Markdown Logo](/images/markdown-mark.svg)
 </div>
 It started with a [blog post by Ian Lurie](https://www.portent.com/blog/copywriting/use-markdown-now.htm "Why I Use Markdown, & You Should Too") in September 2016. At the time I had a workflow of feedly -> pocket -> evernote. That post made it to evernote with a tag to revisit.
 
