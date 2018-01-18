@@ -3,7 +3,7 @@ layout: post
 title: Why Jekyll?
 ---
 <div class="img_center"> 
-  ![Jekyll Logo](/images/jekyll-logo.png) 
+  ![Jekyll Logo](./images/jekyll-logo.png) 
 </div>
 Why Jekyll instead of wordpress, where I have experience?  
 I wanted to use the github pages feature, so that narrowed it down to static site generators. I looked at Nikola and Pelican, but I think I would get too distracted by the tool (written in python) instead of writing. So the third option I looked at was Jekyll. 
