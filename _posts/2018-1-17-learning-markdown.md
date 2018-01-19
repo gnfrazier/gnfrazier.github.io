@@ -19,6 +19,5 @@ Here it is January, I am not taking a class this semester, holidays are over, an
 
 [Markdownify](https://markdownify.js.org/ "Markdownify.org") for a lightweight alternative to Atom. Atom is more code editor than word processor. Markdownify is the middle ground between Atom and focuswriter. 
 
+[Markdown Please!](http://markdownplease.com/ "Markdownplease.com") a [Kenneth Reitz](https://www.kennethreitz.org/) project. Convert a HTML webpage to Markdown. Handy if importing an old blog or website to a Markdown based CMS.
 
-
-*[GFM]: GitHub Flavored Markdown
