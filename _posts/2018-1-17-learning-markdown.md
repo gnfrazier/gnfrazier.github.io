@@ -2,9 +2,9 @@
 layout: post
 title: Learning Markdown
 ---
-
+<div class="img_center">
   ![Markdown Logo]({{ site.baseurl }}/images/markdown-mark.svg)
-
+</div>
 It started with a [blog post by Ian Lurie](https://www.portent.com/blog/copywriting/use-markdown-now.htm "Why I Use Markdown, & You Should Too") in September 2016. At the time I had a workflow of feedly -> pocket -> evernote. That post made it to evernote with a tag to revisit.
 
 Suddenly references to Markdown were everywhere. [Conferences](https://pydata.org/carolinas2016/ "Pydata Carolinas"), [podcasts](https://www.podcastinit.com/episode-20-static-site-generators-with-justin-mayer-and-roberto-alsina/ "Podcast.__init__ - Static Site Generators..."), and of course readme.md on github. After a few frustrating mis-steps with using nano to edit Markdown, I resigned to editing readme files in the browser instead of locally.
