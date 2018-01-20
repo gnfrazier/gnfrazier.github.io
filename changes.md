@@ -32,7 +32,7 @@ kramdown:
   parse_block_html: true
 ```
 
-Requisite [stackoverflow](https://stackoverflow.com/questions/39021630/kramdown-how-can-i-set-the-location-of-the-image "stackoverflow - kramdown how can I..') reference. 
+Requisite [stackoverflow](https://stackoverflow.com/questions/39021630/kramdown-how-can-i-set-the-location-of-the-image "stackoverflow - kramdown how can I..") reference. 
 
 ***
 #### Embed Videos
