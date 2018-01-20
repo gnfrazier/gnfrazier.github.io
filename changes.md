@@ -52,3 +52,31 @@ youtubeId: 2MsN8gpT6jY
 In the body where you want the video use:
 
 {% highlight html %} {% raw %} {% include youtube.html id=page.youtubeId %} {% endraw %} {% endhighlight %}
+
+Example:  
+{% include youtube.html id=page.youtubeId %}
+
+**Vimeo**  
+Create another HTML file called vimeo.html in your includes file.
+``` html 
+<iframe src="https://player.vimeo.com/video/{{ include.id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+```
+In the page or post's front matter:
+``` markdown
+---
+vimeoId: 160580156
+---
+```
+
+In markdown use:
+{% highlight html %} {% raw %}
+{% include vimeo.html id=page.vimeoId %}
+{% endraw %} {% endhighlight %}
+
+Example:  
+{% include vimeo.html id=page.vimeoId %}
+
+
+Credit to [Adam Harris](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/ "AdamWadeHarris.com - how to easily embed...")
+
+***
