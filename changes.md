@@ -50,7 +50,5 @@ youtubeId: 2MsN8gpT6jY
 ```
 
 In the body where you want the video use:
-```html 
-{% include youtube.html id=page.youtubeId %}
-```
 
+{% highlight html %} {% raw %} {% include youtube.html id=page.youtubeId %} {% endraw %} {% endhighlight %}
