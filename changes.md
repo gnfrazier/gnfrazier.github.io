@@ -69,9 +69,7 @@ vimeoId: 160580156
 ```
 
 In markdown use:
-{% highlight html %} {% raw %}
-{% include vimeo.html id=page.vimeoId %}
-{% endraw %} {% endhighlight %}
+{% highlight html %} {% raw %}{% include vimeo.html id=page.vimeoId %}{% endraw %} {% endhighlight %}
 
 Example:  
 {% include vimeo.html id=page.vimeoId %}
