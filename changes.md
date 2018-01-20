@@ -27,7 +27,7 @@ Add to style.scss
 ```
 
 Append to the existing Kramdown block of _config.yml
-``` yml
+``` yaml
 kramdown:
   parse_block_html: true
 ```
@@ -50,7 +50,7 @@ youtubeId: 2MsN8gpT6jY
 ```
 
 In the body where you want the video use:
-``` markdown
+``` html 
 {% include youtube.html id=page.youtubeId %}
 ```
 Example:
@@ -69,7 +69,7 @@ vimeoId: 160580156
 ```
 
 In markdown use:
-``` markdown
+``` html 
 {% include vimeo.html id=page.vimeoId %}
 ```
 Example:
