@@ -49,7 +49,7 @@ youtubeId: 2MsN8gpT6jY
 ---
 ```
 
-In the body where you want the video use:
+In the body where you want the video use:  
 
 {% highlight html %} {% raw %} {% include youtube.html id=page.youtubeId %} {% endraw %} {% endhighlight %}
 
@@ -68,7 +68,8 @@ vimeoId: 160580156
 ---
 ```
 
-In markdown use:
+In markdown use:  
+
 {% highlight html %} {% raw %}{% include vimeo.html id=page.vimeoId %}{% endraw %} {% endhighlight %}
 
 Example:  
