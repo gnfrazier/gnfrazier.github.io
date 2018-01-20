@@ -2,6 +2,8 @@
 layout: page
 title: Quick Modifications to Jekyllnow
 permalink: /changes/
+youtubeId: 2MsN8gpT6jY
+vimeoId: 160580156
 ---
 
 [Jekyllnow](https://github.com/barryclark/jekyll-now "GitHub - Jekyllnow") is a popular theme for Jekyll and GitHub pages. I like it because of its simplicity and sparse default layout. Here are the customizations I have applied. 
@@ -33,15 +35,47 @@ kramdown:
 Requisite [stackoverflow](https://stackoverflow.com/questions/39021630/kramdown-how-can-i-set-the-location-of-the-image "stackoverflow - kramdown how can I..') reference. 
 
 ***
-#### Embed YouTube Videos
+#### Embed Videos
+
+**YouTube**  
 Create a HTML file called youtube.html in your includes file.
 ``` HTML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 ```
+In the page or post's front matter:
+``` Markdown
+---
+youtubeId: 2MsN8gpT6jY
+---
+```
+
+In the body where you want the video use:
+``` Markdown
+{% include youtube.html id=page.youtubeId %}
+```
+Example:
+{% include youtube.html id=page.youtubeId %}
+
+**Vimeo**  
+Create another HTML file called vimeo.html in your includes file.
+``` HTML 
+<iframe src="https://player.vimeo.com/video/{{ include.id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+```
+In the page or post's front matter:
+``` Markdown
+---
+vimeoId: 160580156
+---
+```
+
 In markdown use:
 ``` Markdown
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include vimeo.html id=page.vimeoId %}
 ```
+Example:
+{% include vimeo.html id=page.vimeoId %}
+
+
 Credit to [Adam Harris](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/ "AdamWadeHarris.com - how to easily embed...")
 
 ***
