@@ -53,7 +53,7 @@ In the body where you want the video use:
 ``` markdown
 {% include youtube.html id=page.youtubeId %}
 ```
-Example:
+Example:  
 {% include youtube.html id=page.youtubeId %}
 
 **Vimeo**  
@@ -72,7 +72,7 @@ In markdown use:
 ``` markdown
 {% include vimeo.html id=page.vimeoId %}
 ```
-Example:
+Example:  
 {% include vimeo.html id=page.vimeoId %}
 
 
