@@ -27,7 +27,7 @@ Add to style.scss
 ```
 
 Append to the existing Kramdown block of _config.yml
-``` yml
+``` yaml
 kramdown:
   parse_block_html: true
 ```
