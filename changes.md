@@ -39,18 +39,18 @@ Requisite [stackoverflow](https://stackoverflow.com/questions/39021630/kramdown-
 
 **YouTube**  
 Create a HTML file called youtube.html in your includes file.
-``` HTML
+``` html 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
 ```
 In the page or post's front matter:
-``` Markdown
+``` markdown
 ---
 youtubeId: 2MsN8gpT6jY
 ---
 ```
 
 In the body where you want the video use:
-``` Markdown
+``` markdown
 {% include youtube.html id=page.youtubeId %}
 ```
 Example:
@@ -58,18 +58,18 @@ Example:
 
 **Vimeo**  
 Create another HTML file called vimeo.html in your includes file.
-``` HTML 
+``` html 
 <iframe src="https://player.vimeo.com/video/{{ include.id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ```
 In the page or post's front matter:
-``` Markdown
+``` markdown
 ---
 vimeoId: 160580156
 ---
 ```
 
 In markdown use:
-``` Markdown
+``` markdown
 {% include vimeo.html id=page.vimeoId %}
 ```
 Example:
