@@ -12,12 +12,12 @@ I wanted to use the github pages feature, so that narrowed it down to static sit
 
 Pluses:
 
-- Native github pages integration
-- Large community
-- Huge assortment of themes
-- Native markdown support
-- Written in Ruby
-- Mature
+-   Native github pages integration
+-   Large community
+-   Huge assortment of themes
+-   Native markdown support
+-   Written in Ruby
+-   Mature
 
 # Setup
 
