@@ -27,3 +27,6 @@ Having a local clone is handy. Drafts are handled by working on a branch. Creati
 #### Next Steps  
 
 One of the driving factors is to give me a reason to learn markdown. [Ian Lurie](https://twitter.com/portentint) has me convinced.
+
+### Additional Reading:
+[GitHub Pages Compatible Plugins](https://help.github.com/articles/configuring-jekyll-plugins/ "GitHub Help - Configuring Jekyll Plugins")

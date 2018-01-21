@@ -20,5 +20,5 @@ window.addEventListener("load", function () {
 
 It triggered what I can only explain as a 'Flight or Fight' response. Elevated heart rate, sweating, nervousness. While there were more than  2 \{ \} in the snippet he sent, it was just a little JavaScript. 
 
-I am sure _Timor Crispus Adstringit_ is not uncommon. Frequently "what's with all these curly braces?" is expressed on various podcasts I listen to. I feel the need to at least have a good understanding of JavaScript. How can I overcome this horrible condition?
+I am sure _Timor Crispus Adstringit_ is not uncommon. Frequently "what's with all these curly braces?" is expressed on various podcasts I listen to. I feel the need to at least have a good understanding of JavaScript. How can I overcome this annoying condition?
 

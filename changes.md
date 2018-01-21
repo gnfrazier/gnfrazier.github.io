@@ -73,3 +73,8 @@ In markdown use:
 Credit to [Adam Harris](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/ "AdamWadeHarris.com - how to easily embed...")
 
 ***
+### Additional Reading
+[GitHub Pages Compatible Plugins](https://help.github.com/articles/configuring-jekyll-plugins/ "GitHub Help - Configuring Jekyll Plugins")
+
+
+

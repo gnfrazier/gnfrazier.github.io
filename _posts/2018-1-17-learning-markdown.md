@@ -15,9 +15,14 @@ During my annual clean out of evernote, I came across that initial that started 
 
 Here it is January, I am not taking a class this semester, holidays are over, and the weather is shockingly cold. Finally time to take the plunge into Markdown. I set up a github pages blog using [Jekyll](/2018-1-16-why-jekyll.md "Why Jekyll?") to give me a real reason to use Markdown. This is my second post written in Atom. Having an environment that I know and trust has been the friction reducer I needed.
 
+#### Update 1/20/2018
+I added [linter-markdown](https://github.com/AtomLinter/linter-markdown "GitHub - linter-markdown") to Atom to avoid making some silly errors. 
+
 #### Additional Reading:
 
 [Kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html "Kramdown.com - Quick Ref") is a nice cheat sheet to less used markup and notations. Kramdown has some additional features that are not in GFM. 
+
+[List of languages for Syntax Highlighting in Rouge](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers "GitHub - List of Supported Languages and Lexers")
 
 [Markdownify](https://markdownify.js.org/ "Markdownify.org") for a lightweight alternative to Atom. Atom is more code editor than word processor. Markdownify is the middle ground between Atom and focuswriter. 
 
