@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Jekyll?
+tags: jekyll jekyllnow ian-lurie
 ---
 
 <div class="img_center">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using GitHub Pages with Custom Domain and HTTPS
+tags: github-pages https cloudflare cdn
 ---
 
 Initial posts I found about enabling https with a custom domain on GitHub Pages were from 2014 and seemed overly complex. However, the process has become very easy with [Cloudflare](https://www.cloudflare.com "cloudflare.com - Homepage").

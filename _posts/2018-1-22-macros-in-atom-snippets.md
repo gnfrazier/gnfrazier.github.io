@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Macros in Atom Editor - Snippets
+tags: atom-editor snippets macros workflow
 ---
 
 Ever notice in Atom Editor that when you start typing common code constructions, it tries to auto-complete the rest of the block. For instance in Python if you start typing 'ifmain' it completes with:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tracking Changes
+tags: jekyll github-pages linter
 ---
 
 As notes for my self I am [tracking changes](/changes/) that I make to the css, \_config.yml and other files. While I could probably unravel them using github, if I choose to move to a new theme it will probably come in handy to have docs in a more readable format.
