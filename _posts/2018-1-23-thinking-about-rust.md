@@ -1,9 +1,12 @@
 ---
 layout: post
-title: My thoughts on Rust
+title: My Thoughts on Rust
 tags: rust python learning opinion 
 ---
 
+<div class="img_center">
+  ![Rust-Lang Logo]({{ site.baseurl }}/images/rust-logo-blk.svg)
+</div>
 I have been interested in Rust for about a year, in January 2017 I went through to about chapter 4 of [The Book](https://doc.rust-lang.org/book/second-edition/ "Rust Lang.org - The Book 2nd Edition") . I found Rust very enjoyable, different in its compiled-ness, attractive in its toolchain and stunningly fast to run. I described rust to a coworker.
 
 > If Python is like a Toyota Corolla, Rust is like a Tesla.
@@ -20,7 +23,7 @@ The more I think about both Python and Rust, the more I find that statement fitt
 
 In light of all this, Rust is just hard to learn. I don't want to have to think about thread safety and ownership and memory usage. I just want to write some code and get work done. It is rare that a difference of 3ms vs 3 hours in run time makes a difference for me, what does make a difference is 15 minutes vs 5 hours to code it. After a few toy programs I lost interest.
 
-I still follow the Rust community. When they started their push to [lower the bar to learning Rust](https://blog.rust-lang.org/2017/02/06/roadmap.html "Rust Lang Blog - 2017 Roadmap") I became intrigued again. With their successful push of so many core libraries to 1.0 in December 2017 I thought I would try again. 
+I still follow the Rust community. When they started their push to [lower the bar to learning Rust](https://blog.rust-lang.org/2017/02/06/roadmap.html "Rust Lang Blog - 2017 Roadmap") I became intrigued again. With their successful push of so many [core libraries to 1.0 in December 2017](https://blog.rust-lang.org/2017/12/21/rust-in-2017.html "Rust Lang Blog - What We Achived in 2017") I thought I would try again. 
 
 For some reason it is still not sticking for me. I get to the part where The Book starts to explain ownership and suddenly I lose interest. There are some books scheduled to publish this spring. I'll pick one up to see if that helps. Otherwise I may try go-lang. 
 
