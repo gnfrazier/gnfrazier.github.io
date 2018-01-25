@@ -29,5 +29,11 @@ For some reason it is still not sticking for me. I get to the part where The Boo
 
  For now I will stick with Python where I can get some work done. 
 
+#### Update:
+
+The day after I wrote this post, I read [Why is Rust Difficult? by Micheal Vaner](https://vorner.github.io/difficult.html). He perfectly outlines where I struggle with Rust and brings me to another question. Is there an eloquent explanation of Ownerships, Traits and Lifetimes? Preferably with psuedo code or IRL analogies instead of Rust. If so please send it to me in a [tweet](https://twitter.com/gnfrazier).
+
+* * *
+
 Footnote:  
 Please note that I am a huge Python fan, nearly an evangelist. I am active in my local Python community and it is my language of choice for just about everything. 
