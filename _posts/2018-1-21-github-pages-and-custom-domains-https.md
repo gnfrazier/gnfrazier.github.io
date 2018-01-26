@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using GitHub Pages with Custom Domain and HTTPS
+title: Using GitHub Pages with Custom Domain and HTTPS with Cloudflare
 tags: github-pages https cloudflare cdn
 ---
 
@@ -15,6 +15,28 @@ Easy enough I won't go into the details. In summary:
 -   Make sure to set the SSL level to Full.
 
 Done. I set mine up at a low traffic time of day and my dns updated in a few minutes.  Cloudflare is clear that issuing a certificate takes roughly 24 hours. 
+
+#### Update
+
+In Cloudflare's Crypto section my certificate stayed in the 'Authorizing Certificate' state for 3 days. I contacted their support using the support form. It was easy to use, even on my phone. I submitted this as a low priority bug, everything else was working. Within 30 minutes I got this nice response back.
+
+> Hi,
+>
+> Thank you for contacting Cloudflare Support. Sorry that you are experiencing some issues here.
+>
+> It looks like your SSL certificate stuck at Authorization state. I've canceled it and placed a new SSL order for you and will update you once it's successfully deployed.
+
+2 hours later.
+
+> Hi,
+>
+> SSL Certificate is now Active for your domain.
+>
+> Sorry for the delays and thank you for your patience while we were working on this.
+>
+> I will mark this as solved but do let us know if you have any further questions or issues by replying to this e-mail or ticket.
+
+Expectations met and exceeded! I am on the free tier, Cloudflare had better support times than some services I pay for. 
 
 ### Additional Reading
 

@@ -35,5 +35,5 @@ The day after I wrote this post, I read [Why is Rust Difficult? by Micheal Vaner
 
 * * *
 
-Footnote:  
+**Footnote:**  
 Please note that I am a huge Python fan, nearly an evangelist. I am active in my local Python community and it is my language of choice for just about everything. 
