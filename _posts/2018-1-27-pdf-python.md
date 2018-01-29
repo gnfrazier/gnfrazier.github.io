@@ -128,3 +128,13 @@ Command "python setup.py egg_info" failed with error code 1 in /tmp/pip-build-w1
 Went to file a bug report, it is a [known issue](https://github.com/timClicks/slate/issues/38 "GitHub - Slate - Issue 38").
 
 Slate looked as promising as textract, I may revisit once the bug fix is pushed to pypi. 
+
+### Additional Reading
+
+[Tabula-py Repository](https://github.com/chezou/tabula-py "GitHub - Tabula-py")
+
+[Running a Java JRE in Linux](https://www.tecmint.com/install-java-jdk-jre-in-linux/ "Tecmint - Install Java JDK...")
+
+[Extracting Text from a PDF in Python](https://stackoverflow.com/questions/34837707/extracting-text-from-a-pdf-file-using-python "StackOverflow - Extracting Text from a PDF...")
+
+[Python - Slate Library](https://pypi.python.org/pypi/slate "Pypi - Slate")
