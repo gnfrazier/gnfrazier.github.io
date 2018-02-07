@@ -4,7 +4,7 @@ title: A Busy Weekend of Hobby Coding
 tags: PDF pandas dataframe python toml
 ---
 
-Late last week I was assigned to code and process a bunch of invoices. Rather than spend work hours automating it with python, I used my 'kids are still asleep' time. While not complete, I am happy with my progress with importing pdf invoices into python. My end goal is to export the data/itemized list to excel (because that is the format that our accouting department speaks).
+Late last week I was assigned to code and process a bunch of invoices. Rather than spend work hours automating it with python, I used my 'kids are still asleep' time. While not complete, I am happy with my progress with importing pdf invoices into python. My end goal is to export the data/itemized list to excel (because that is the format that our accounting department speaks).
 
 A bit of poking around for libraries dealing with pdf files in python returned:
 
@@ -17,11 +17,11 @@ A bit of poking around for libraries dealing with pdf files in python returned:
 
 The ones I found most useful were Tabula for the body/itemization of invoices, and pdfminer for any other content. 
 
-When I am highly experimental my workflow is to use a conda environment with a jupyter notebook. I break apart lines of code in different cells while figuring them out, then build method blocks as I go. Finish a section, build a `def` block, restart the kernal and move on to the next one. Simply because of difficulty getting conda to install some of the above libraries I abandoned some of them. Unfortunately Slate and Textract fell into this category. They looked the most promising and had decent documentation and nice API's.
+When I am highly experimental my workflow is to use a conda environment with a jupyter notebook. I break apart lines of code in different cells while figuring them out, then build method blocks as I go. Finish a section, build a `def` block, restart the kernel and move on to the next one. Simply because of difficulty getting conda to install some of the above libraries I abandoned some of them. Unfortunately Slate and Textract fell into this category. They looked the most promising and had decent documentation and nice API's.
 
 #### Tabula
 
-I was blown away with how easy Tabula handles tables in PDFs. For invoices this is usually the body of the invoice where items or services are itemized on a line basis. 
+I was blown away by how easy Tabula handles tables in PDFs. For invoices, this is usually the body of the invoice where items or services are itemized on a line basis. 
 
 Tabula intends the table data from the PDF to go into a pandas dataframe, which is fantastic
 
@@ -45,7 +45,7 @@ import tabula
 df = tabula.read_pdf("test.pdf")
 ```
 
-That is it. An import and one line of code. My only hang up is the Java dependency. Especially on windows machines keeping the Java versions and updates in line is a tricky thing. Frequently in enterprises some legacy app needs an old version that can't be updated, conflicts arise, chaos ensues. 
+That is it. An import and one line of code. My only hang up is the Java dependency. Especially on windows machines keeping the Java versions and updates in line is a tricky thing. Frequently in enterprises, some legacy app needs an old version that can't be updated, conflicts arise, chaos ensues. 
 
 #### pdfminer
 

@@ -8,7 +8,7 @@ tags: toml yaml python learning
 ![Toml Logo]({{ site.baseurl }}/images/toml-logo.png "Toml Logo in Greyscale")
 </div>
 
-In the past I have used .ini files for Python config, while an older format it is easy to understand and has std-lib support with [configparser](https://docs.python.org/3/library/configparser.html "Python 3.6 Documentation - ConfigParser"). Since starting with Jekyll I have gotten used to working with ymal files, since my pdf reading project needs a config file I started to use ymal. But while looking for yaml on python docs I ran across several threads about yaml vs toml.  
+In the past I have used .ini files for Python config, while an older format it is easy to understand and has std-lib support with [configparser](https://docs.python.org/3/library/configparser.html "Python 3.6 Documentation - ConfigParser"). Since starting with Jekyll I have gotten used to working with ymal files since my pdf reading project needs a config file I started to use ymal. But while looking for yaml on python docs I ran across several threads about yaml vs toml.  
 
 Reading through them changed my mind about using yaml.
 Reasons important to me to choose Toml:

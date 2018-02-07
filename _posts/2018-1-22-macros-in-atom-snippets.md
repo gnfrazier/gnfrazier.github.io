@@ -11,12 +11,12 @@ if __name__ == '__main__':
     main()
 ```
 
-The [if main check](https://stackoverflow.com/questions/419163/what-does-if-name-main-do "StackOverflow - What does if \_\_main\_\_ do in Python?") is a frequently used construction, so Atom has it as a built in Macro or Snippet.
+The [if main check](https://stackoverflow.com/questions/419163/what-does-if-name-main-do "StackOverflow - What does if \_\_main\_\_ do in Python?") is a frequently used construction, so Atom has it as a built-in Macro or Snippet.
 
-Unfortunately Atom does not have very many standard snippets for Markdown, but it is [easy to add your own](http://flight-manual.atom.io/using-atom/sections/snippets/ "Atom Editor Flight Manual - Snippets").  
+Unfortunately, Atom does not have very many standard snippets for Markdown, but it is [easy to add your own](http://flight-manual.atom.io/using-atom/sections/snippets/ "Atom Editor Flight Manual - Snippets").  
 To add a snippet to insert an image into Markdown:
 
-From the edit menu select 'Snippets.'
+From the edit menu, select 'Snippets.'
 
   <img src="{{ site.baseurl }}/images/atom-edit-snippet.png" alt="Atom Editor - Edit Menu with Snippet Selected">
 

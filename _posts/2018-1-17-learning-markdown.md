@@ -27,6 +27,6 @@ I added [linter-markdown](https://github.com/AtomLinter/linter-markdown "GitHub 
 
 [List of languages for Syntax Highlighting in Rouge](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers "GitHub - List of Supported Languages and Lexers")
 
-[Markdownify](https://markdownify.js.org/ "Markdownify.org") for a lightweight alternative to Atom. Atom is more code editor than word processor. Markdownify is the middle ground between Atom and focuswriter. 
+[Markdownify](https://markdownify.js.org/ "Markdownify.org") for a lightweight alternative to Atom. Atom is more code editor than a word processor. Markdownify is the middle ground between Atom and focuswriter. 
 
-[Markdown Please!](http://markdownplease.com/ "Markdownplease.com") a [Kenneth Reitz](https://www.kennethreitz.org/) project. Convert a HTML webpage to Markdown. Handy if importing an old blog or website to a Markdown based CMS.
+[Markdown Please!](http://markdownplease.com/ "Markdownplease.com") a [Kenneth Reitz](https://www.kennethreitz.org/) project. Convert an HTML webpage to Markdown. Handy if importing an old blog or website to a Markdown-based CMS.

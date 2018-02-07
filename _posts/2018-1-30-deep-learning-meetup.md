@@ -58,7 +58,7 @@ Fast.ai - Practical Deep Learning for Coders
 deeplearningrtp.slack.com/
 
 **Study Groups**  
-Group is collaberative, community focused.
+Group is collaborative, community focused.
 
 -   Come as you are
 -   New People every week
@@ -76,10 +76,10 @@ Group is collaberative, community focused.
 -   Crestle.com 
     -   1 hour free
     -   Start Jupyter
-    -   Use the terminal to clone the fast.ai github repo 
+    -   Use the terminal to clone the fast.ai GitHub repo 
     -   Course directory is ready to go
 -   Paperspace.com
-    -   Choose linux
+    -   Choose Linux
     -   Couple hours to get approved, tell them doing the fast.ai Course
 
 **General**  

@@ -11,10 +11,10 @@ Easy enough I won't go into the details. In summary:
 -   Buy your domain from your provider of choice.
 -   Add the domain name in the settings tab of your github.io repository.
 -   Sign up for the free level of Cloudflare.
--   Follow the on-boarding steps for cloudflare to use their name servers.
+-   Follow the on-boarding steps for Cloudflare to use their name servers.
 -   Make sure to set the SSL level to Full.
 
-Done. I set mine up at a low traffic time of day and my dns updated in a few minutes.  Cloudflare is clear that issuing a certificate takes roughly 24 hours. 
+Done. I set mine up at a low traffic time of day and my DNS updated in a few minutes.  Cloudflare is clear that issuing a certificate takes roughly 24 hours. 
 
 #### Update
 
