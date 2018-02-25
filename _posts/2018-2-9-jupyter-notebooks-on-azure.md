@@ -4,7 +4,7 @@ title: Jupyter Notebooks on Azure
 tags: python jupyter azure
 ---
 
-Today I read and article in MSDN magazine about Jupyter Notebooks on Azure. This could be an excellent solution for work. The business users have excel notebooks with VB macros written by an employee that is no longer with the company. It is unlikely that anyone really knows how the macros work anymore. 
+Today I read an article in MSDN magazine about Jupyter Notebooks on Azure. This could be an excellent solution to use Jupyter for companies where Active Directory, Office365 and Azure are tightly integrated, and there is an aversion to installing Anaconda. 
 
 #### Sign In
 
@@ -36,7 +36,7 @@ Somethings you will notice if you are used to running Jupyter locally:
 -   Addition of a Libraries menu option
 
 <div class="img_center">
-![Azure Notebooks - A Running Notebook]({{ site.baseurl }}/images/jupyter-azure-running.png "")
+![Azure Notebooks - A Running Notebook]({{ site.baseurl }}/images/jupyter-azure-running.png "A view of a notebook running in Azure.")
 </div>
 
 **Data**  
@@ -47,6 +47,8 @@ Opens a new tab back to the libraries menu. Using the browser function in your r
 
 #### Public vs Private Notebooks
 
-<div class="img_center">![Library View of Azure Notebooks]({{ site.baseurl }}/images/jupyter-azure-library-view.png "Library view of Azure Notebooks showing a private and public notebook")</div>
+<div class="img_center">
+![Library View of Azure Notebooks]({{ site.baseurl }}/images/jupyter-azure-library-view.png "Library view of Azure Notebooks showing a private and public notebook")
+</div>
 
 If you have a notebook you want to share with the open Internet, use a public notebook. However, frequently you won't be ready to share your notebook yet, or perhaps you are doing an analysis that uses data that should not be shared outside your immediate department. To share with a specific list of users, use the Share button from the libraries menu. Notebooks can be shared with anyone who has a Microsoft account. Chances are if you are reading this at all, your company is using Office 365 and Active directory - so anyone internal is likely to have an account. Sharing  notebooks by name/email is simple. I have not found a reference acknowledging if group policies or row level data are supported. Please contact me via [twitter](https://twitter.com/gnfrazier) if it is documented. 
