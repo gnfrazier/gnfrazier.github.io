@@ -26,7 +26,7 @@ The fields are well defined. Note the checkbox for Public. Public notebooks are 
 <div class="img_center">
 ![Azure Notebooks Ready to Run]({{ site.baseurl }}/images/jupyter-azure-run.png "A new library with readme.md ready to run.")
 </div>
-From the library, click run to start Jupyter. If you run Jupyter locally you will see the default file view. Create a new notebook, for this walkthrough, I'll use Python 3.6. At the time of this writing F#, Python 2, Python 3 and R are other default options. Jupyter supports dozens of kernels, no doubt Azure will support more in the near future. 
+From the library, click run to start Jupyter. If you run Jupyter locally you will see the default file view. Create a new notebook, for this walkthrough, I'll use Python 3.6. At the time of this writing F#, Python 2, Python 3 and R are other default options. Jupyter supports [dozens of kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels "GitHub - Juypter Kernels"), no doubt Azure will support more in the near future. 
 <div class="img_center">
 ![Azure Notebooks - New Notebook]({{ site.baseurl }}/images/jupyter-azure-new-notebook.png "Starting a new Notebook in Azure Notebooks")
 </div>
