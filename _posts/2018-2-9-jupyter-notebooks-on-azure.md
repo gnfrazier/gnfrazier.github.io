@@ -6,11 +6,11 @@ tags: python jupyter azure
 
 Today I read an article in MSDN magazine about Jupyter Notebooks on Azure. This could be an excellent solution to use Jupyter for companies where Active Directory, Office365, and Azure are tightly integrated, and there is an aversion to installing Anaconda. 
 
-#### Sign In
+### Sign In
 
 Logging in is easy, but you do need to have Azure enabled for your Active Directory Account (or [sign up for a free Azure account](https://azure.microsoft.com/en-us/free/)). Just go to [notebooks.azure.com](https://notebooks.azure.com) and sign in. 
 
-#### Libraries
+### Libraries
 
 <div class="img_center">
   ![Azure Notebooks New Library]({{ site.baseurl }}/images/jupyter-azure-new-library.png)
@@ -21,7 +21,7 @@ To get going quickly click the libraries option in the header, then + New Librar
 </div>
 The fields are well defined. Note the checkbox for Public. Public notebooks are open to the entire Internet. If you have sensitive data or code you are not ready to share, make sure to _uncheck_ the box. I'll cover sharing a notebook privately in a later section. Select the readme.md option to create a readme markdown file for your library. If you are a GitHub user this process is familiar. Readme.md is like a cover page for your notebook, it is the perfect place to include any special instructions, abstracts of your study, details about your data set that are too long to be included in-line, dependencies, methodologies and so on.  
 
-#### Run
+### Run
 
 <div class="img_center">
 ![Azure Notebooks Ready to Run]({{ site.baseurl }}/images/jupyter-azure-run.png "A new library with readme.md ready to run.")
@@ -45,7 +45,7 @@ Upload flat files to your library. I am still working through the nuances of dat
 **Libraries**  
 Opens a new tab back to the libraries menu. Using the browser function in your running notebook is a bad idea. 
 
-#### Public vs Private Notebooks
+### Public vs Private Notebooks
 
 <div class="img_center">
 ![Library View of Azure Notebooks]({{ site.baseurl }}/images/jupyter-azure-library-view.png "Library view of Azure Notebooks showing a private and public notebook")
