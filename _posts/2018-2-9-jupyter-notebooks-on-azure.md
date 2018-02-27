@@ -40,10 +40,12 @@ Somethings you will notice if you are used to running Jupyter locally:
 </div>
 
 **Data**  
-Upload flat files to your library. I am still working through the nuances of data persistence. In one menu there is a warning that your data will not be saved, but in a tutorial, it specifically calls out that data imported there will be saved.  
+Upload flat files to your library. I am still working through the nuances of data persistence. In one menu there is a warning that your data will not be saved, but in a tutorial, it specifically calls out that data imported there will be saved.  Oddly no documented support for One Drive or Sharepoint data, but [DropBox, Azure Table Storage and Azure Blob Storage](https://notebooks.azure.com/help/jupyter-notebooks/data "Azure Notebooks - Data Options") are noted. 
 
 **Libraries**  
-Opens a new tab back to the libraries menu. Using the browser function in your running notebook is a bad idea. 
+Opens a new tab back to the libraries menu. Using the back browser function in your running notebook is a bad idea. 
+
+After working for a few hours in Azure Notebooks, I have found myself using  Data, Input and Output folders just like when I run locally. My Notebook session has timed out twice due to inactivity (about an hour on one, one and a half hours on the second) and both times my very small flat files have been there. 
 
 ### Public vs Private Notebooks
 
@@ -52,3 +54,11 @@ Opens a new tab back to the libraries menu. Using the browser function in your r
 </div>
 
 If you have a notebook you want to share with the open Internet, use a public notebook. However, frequently you won't be ready to share your notebook yet, or perhaps you are doing an analysis that uses data that should not be shared outside your immediate department. To share with a specific list of users, use the Share button from the libraries menu. Notebooks can be shared with anyone who has a Microsoft account. Chances are if you are reading this at all, your company is using Office 365 and Active directory - so anyone internal is likely to have an account. Sharing  notebooks by name/email is simple. I have not found a reference acknowledging if group policies or row level data are supported. Please contact me via [twitter](https://twitter.com/gnfrazier) if it is documented. 
+
+### Additional Reading
+
+[Azure Notebooks Documentation](https://notebooks.azure.com/help/jupyter-notebooks "Azure Notebooks - Help")
+
+[Azure Table and Blob Storage Services](https://docs.microsoft.com/en-us/rest/api/storageservices/ "Microsoft.com - Azure Storage Services")
+
+[Jupyter Notebook Extensions](<{{ site.baseurl }}/jupyter-notebook-extensions>)

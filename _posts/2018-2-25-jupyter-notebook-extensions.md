@@ -5,9 +5,9 @@ tags: python jupyter learning
 ---
 
 <div class="img_center">
-![Juypter NBextensions Tab]({{ site.baseurl }}/images/jupyter-nbextensions-tab-view "Jupyter Notebook with NBextensions Tab enabled. ")
+![Juypter NBextensions Tab]({{ site.baseurl }}/images/jupyter-nbextensions-tab-view.png "Jupyter Notebook with NBextensions Tab enabled. ")
 </div>
-While working on the post for [Jupyter Notebooks on Azure](/jupyter-notebooks-on-azure/ "gnfrazier.me - Running Jupyter Notebooks on Azure") I noticed an NBextensions tab I had never noticed when running a local Jupyter Notebook server. 
+While working on the post for [Jupyter Notebooks on Azure]({{ site.baseurl}}/jupyter-notebooks-on-azure/ "gnfrazier.me - Running Jupyter Notebooks on Azure") I noticed an NBextensions tab I had never noticed when running a local Jupyter Notebook server. 
 
 Part of the reason my workflow in python is to experiment/build in Jupyter then transition to Atom for the final step is Atom Editors features like a code linter, snippets and tight Github integration. With NBextensions Autopep8, snippets and 3 dozen more features can be enabled directly in Jupyter. 
 
