@@ -25,10 +25,10 @@ Now that the output headers are in place, define the output file. Use the header
 ### Transform
 
 This feed has a few specific requirements which is the reason we can't just send the original file.
-1. All HTML must be stripped
-2. Parent skus are not valid, only the child skus with a general_id to tie them together
-3. Any lines without an image, copy or brand must be excluded
-4. Currency needs to be formated to '19.99 USD'
+1\. All HTML must be stripped  
+2. Parent skus are not valid, only the child skus with a general_id to tie them together  
+3. Any lines without an image, copy or brand must be excluded  
+4. Currency needs to be formated to '19.99 USD'  
 
 **Strip HTML**  
 To strip the HTML I created a user-generated function in Mapforce. In python this would be a method or in other languages a function. In the graphical interface think of it as a way to create a re-usable process that is much cleaner than having all the parts exposed. If you are using more than 2 or 3 operations tied together, consider creating a function to keep everything clean. 
