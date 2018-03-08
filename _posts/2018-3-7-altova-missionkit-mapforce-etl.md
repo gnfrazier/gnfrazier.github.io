@@ -31,12 +31,12 @@ This feed has a few specific requirements which is the reason we can't just send
 4. Currency needs to be formated to '19.99 USD'  
 
 **Strip HTML**  
-To strip the HTML I created a user-generated function in Mapforce. In python this would be a method or in other languages a function. In the graphical interface think of it as a way to create a re-usable process that is much cleaner than having all the parts exposed. If you are using more than 2 or 3 operations tied together, consider creating a function to keep everything clean. 
+To strip the HTML I created a user-generated function in Mapforce. In python, this would be a method or in other languages a function. In the graphical interface think of it as a way to create a re-usable process that is much cleaner than having all the parts exposed. If you are using more than 2 or 3 operations tied together, consider creating a function to keep everything clean. 
 
 Yes just a daisy chain of serial replace. There is obviously a map function in mapforce, but I didn't see a way to apply it to a parsed string. This is my first day in the tool, be kind. 
 
 **Include Only Valid Rows**  
-To remove the parent skus and to exclude rows that don't have an image or copy we can use a single user generated function I'll label as validation. Add as many inputs as you need, then do your logic steps to perform the validation. If 4 data fields were critical, I would just add another input row. For the parent skus I can look for the field 'is_parent'= false, the rest the step of 'exist' will provide the boolean true false. Pipe everything to an AND since they are all required. Done.
+To remove the parent skus and to exclude rows that don't have an image or copy we can use a single user-generated function I'll label as validation. Add as many inputs as you need, then do your logic steps to perform the validation. If 4 data fields were critical, I would just add another input row. For the parent skus I can look for the field 'is_parent'= false, the rest the step of 'exist' will provide the boolean true false. Pipe everything to an AND since they are all required. Done.
 
 Now connect the input fields to the validation. Connect the output of the validation to the rows line of the output. Done. 
 
@@ -48,12 +48,12 @@ The internet says (and the internet is never wrong) that 80% of data is clean up
 
 ### Checking the Output
 
-At the bottom of the workspace Mapforce has handy tabs that allow navigation to different stages of the work flow. Using the output view generates the mapping on a portion of the input file. 
+At the bottom of the workspace, Mapforce has handy tabs that allow navigation to different stages of the workflow. Using the output view generates the mapping on a portion of the input file. 
 
 ### Generate the code
 
-Generate the output code in the required format. Then either use it as part of a larger script, or compile it and run it on a machine of your choice. This step seemed to easy to me at first, but it really does work. 
+Generate the output code in the required format. Then either use it as part of a larger script or compile it to run on a machine of your choice. This step seemed too easy to me at first, but it really does work. 
 
 ### Wrapping Up
 
-I can write Python to get done what I need, but Mapforce is simple enough i would have no problem setting up the inputs and outputs, then turning the mapping steps over to a business user. The documentation is daunting in volume and does not have a great way to dive in an out of it to move quickly. That being said, once I got the hang of the interface I was able to search for specific functions that looked close to what I needed. I still feel a little ashamed for being so excited about a proprietary tool, maybe I shouldn't be when it is the right tool for the job. 
+I can write Python to get done what I need, but Mapforce is simple enough I would have no problem setting up the inputs and outputs, then turning the mapping steps over to a business user. The documentation is daunting in volume and does not have a great way to dive in an out of it to move quickly. That being said, once I got the hang of the interface I was able to search for specific functions that looked close to what I needed. I still feel a little ashamed for being so excited about a proprietary tool, maybe I shouldn't be when it is the right tool for the job. 
