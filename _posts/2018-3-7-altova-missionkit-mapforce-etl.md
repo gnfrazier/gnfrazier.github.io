@@ -24,8 +24,8 @@ Now that the output headers are in place, define the output file. Use the header
 
 ### Transform
 
-This feed has a few specific requirements which is the reason we can't just send the original file.
-1\. All HTML must be stripped  
+This feed has a few specific requirements which is the reason we can't just send the original file.  
+1. All HTML must be stripped  
 2. Parent skus are not valid, only the child skus with a general_id to tie them together  
 3. Any lines without an image, copy or brand must be excluded  
 4. Currency needs to be formated to '19.99 USD'  
