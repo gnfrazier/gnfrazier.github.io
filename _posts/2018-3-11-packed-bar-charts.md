@@ -71,25 +71,25 @@ What about when the data is less skewed?
 
 -   On packed bars it is just a grid. No advantage to the display
 
-Wrapped Bars  
+### Additional Reading:
+
+[Wrapped Bars - PDF](https://www.perceptualedge.com/articles/visual_business_intelligence/wrapping_graphs_to_extend_their_limits.pdf)  
 
 -   Get to the bottom start at the next column
 -   Also good for skewed data  
 -   Less context, but still on the screen  
 
-Piled Bars  
+[Piled Bars](http://adilyalcin.me/chubuk.js/)  
 
 -   Little bit of 3d shading  
 -   Small ones are close to the x axis  
 -   Better with normal distribution  
 
-Zvinca Plot  
+[Zvinca Plot - PDF](https://www.perceptualedge.com/articles/visual_business_intelligence/journey_to_zvinca.pdf) 
 
 -   Lots of noise  
 -   Similar to a scatterplot  
 -   Better with a normal Distribution  
-
-### Additional Reading:
 
 [NYC Dog Names data](https://github.com/Kaz-A/dog_names/) - what motivated Xan to create packed bars in the first place. 
 
