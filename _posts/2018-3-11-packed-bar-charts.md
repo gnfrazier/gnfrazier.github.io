@@ -52,7 +52,7 @@ Dot Plot
 -   Similar to bar Chart 
 
 How about packed bars?  
-[!Xan Gregg - Packed Bar Charts](https://raw.githubusercontent.com/xangregg/packedbars/master/images/packedbars6.png)
+![Xan Gregg - Packed Bar Charts](https://raw.githubusercontent.com/xangregg/packedbars/master/images/packedbars6.png)
 
 -   Like a hybrid between bar and Treemap  
 -   No info lost, still focus on the top 10  
