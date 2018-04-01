@@ -10,7 +10,8 @@ The title says it all. I have been trying out i3 windows manager on both Windows
 
  @jessfraz  tweeted about running i3 on WSL. Later in the thread:  
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/weRQTGIaqw">https://t.co/weRQTGIaqw</a></p>&mdash; Brian Ketelsen (@bketelsen) <a href="https://twitter.com/bketelsen/status/906272790025830400?ref_src=twsrc%5Etfw">September 8, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/weRQTGIaqw">https://t.co/weRQTGIaqw</a></p>&mdash; Brian Ketelsen (@bketelsen) <a href="https://twitter.com/bketelsen/status/906272790025830400?ref_src=twsrc%5Etfw">September 8, 2017</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### What is i3?
