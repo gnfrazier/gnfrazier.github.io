@@ -12,7 +12,7 @@ Xan of JMP software implemented an interesting solution.
 
 **Question:** What if we displayed the top results in a traditional bar chart, then filled the rest of the area like a heatmap, maintaining the original axis scale for the heatmap component?
 
-**Answer:**  I like it. When explaining to business users it allows me to display the full data set in a single visualization. Frequently a stakeholder gets a specific term stuck in their head. That this one keyword is critical to the success of them selling products. With a packed bar display it is instantly apparent how that term ranks in the full scale of the words searched. 
+**Answer:**  I like it. When explaining to business users it allows me to display the full data set in a single visualization. Frequently a stakeholder gets a specific term stuck in their head. That this one keyword is critical to the success of them selling products. With a packed bar display, it is instantly apparent how that term ranks in the full scale of the words searched. 
 
 Minor downside for me. While there is an [R package for packed bar charts](https://github.com/AdamSpannbauer/rPackedBar "GitHub - Adam Spannbauer - rPackedBar") based on [plotly](https://plot.ly). I don't see a way to do it in Python yet. Hopefully Xan's talk yesterday inspired somebody to implement it. 
 
