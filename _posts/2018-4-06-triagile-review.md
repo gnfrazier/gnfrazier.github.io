@@ -23,8 +23,8 @@ My take away was to empower and encourage designers to keep initial working mode
 From the last bits of my notes:
 
 > What to do tomorrow  
->     - Include the \\&lt;designer> in your team tomorrow  
+>     - Include the designer in your team tomorrow  
 >     - Adjust the iteration expectations ahead of time  
->     - Use a parralelle high level track for greenfield/revolutionary design  
+>     - Use a parallel high level track for greenfield/revolutionary design  
 >     - Use Design Thinking Research Spikes  
 >     - Demo with the end in mind  
