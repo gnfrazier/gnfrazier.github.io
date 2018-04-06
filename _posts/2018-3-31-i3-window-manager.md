@@ -16,7 +16,7 @@ The title says it all. I have been trying out i3 windows manager on both Windows
 
 ### What is i3?
 
-In short, it brings mac like window tiling powers to your linux (an now through WSL Windows) machine. All manipulated by hotkeys, switch from window to window, workspace to workspace. Resize, move and change windows, open/close mostly anything you can think of to keep your hands on the keyboard and off the mouse. 
+In short, it brings mac like window tiling powers to your linux (and now through WSL Windows) machine. All manipulated by hotkeys, switch from window to window, workspace to workspace. Resize, move and change windows, open/close mostly anything you can think of to keep your hands on the keyboard and off the mouse. 
 
 ### Learning i3
 
@@ -26,4 +26,12 @@ After watching this video I was hooked.
 
 I followed the path explained in [Brian Ketelsen's blog post](https://brianketelsen.com/blog/i3-windows/ "brianketelsen.com - Running i3 Window Manager on Bash For Windows") and configured i3 on my work laptop under WSL. After resolving a hotkey conflict, I really like how it works. It is like a superpower. 
 
-A few days later I installed and configured the laptop I use for most non-work projects, an older Thinkpad X1 with [Solus-Linux ](https://solus-project.com/), I have been using Budgie since I installed Solus, running i3 is quite a change. Luckily the [second video in the Code Cast i3wm series](https://www.youtube.com/watch?v=8-S0cWnLBKg) walks through many of the steps to make i3 feel more polished. 
+A few days later I installed and configured the laptop I use for most non-work projects, an older Thinkpad X1 with [Solus-Linux](https://solus-project.com/), I have been using Budgie since I installed Solus, running i3 is quite a change. Luckily the [second video in the Code Cast i3wm series](https://www.youtube.com/watch?v=8-S0cWnLBKg) walks through many of the steps to make i3 feel more polished. 
+
+I am still stumbling here and there on less common actions, I am forcing myself to think of the hotkeys before resorting to looking at the [quick reference card.](https://i3wm.org/docs/refcard.html "i3wm.org - i3 Reference Card") 
+
+### Update
+
+After a week, I am still booting into i3 on my linux machine. At work on win10 I have stopped bothering. The extra complexity of the window manager combined with a few conflcting hotkeys is just enough friction to slow me down and erase the gains of i3. 
+
+Where I am finding i3 most useful is for writing and updating posts. The ability to have a browser, Atom and a command line all at once is the Goldilocks of workspace set-ups. 
