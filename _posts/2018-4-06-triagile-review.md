@@ -43,6 +43,8 @@ What I came away with was how much variation in pitch he used in his voice, how 
 
 One thing (and I heard this from another attendee as well), he was a bit heavy on keeping his logo, branding, and URL on every slide. If he returns next year I may attend his talk, but only if the topic/abstract is radically different from the previous years.
 
+* * *
+
 #### Elaine McVey and Eric Hannan  - The Agilist Vs the Data Scientist
 
 By far the most entertaining session of the day. Data Scientist Elain McVey [presented to RTA](https://www.meetup.com/Research-Triangle-Analysts/events/237582912/?_cookie-check=B9XxLMBt4k5EngSu) last year and she rocked it. Joining up with Eric Hannan only upped the game. 
@@ -50,6 +52,8 @@ By far the most entertaining session of the day. Data Scientist Elain McVey [pre
 Purposely presented in high school drama class style, Eric and Elaine performed a 3 act skit portraying the use of Agile practices within a Data Science workflow. It was cute. It was entertaining. It communicated the message well.
 
 The takeaway I passed along to one of the analysts at work, was lightweight prototypes with no real data in them with the purpose of getting closer to what the end user wants in the analysis. The one pitfall is that you may not have the data to support what the end user wants. Elaine admitted that was the tricky part, and they had encountered the issue, but it is an easier conversation to have rather than doing a lot of work that nobody cares about. 
+
+* * *
 
 #### Braz Brandt - Growing Agile Managers
 
@@ -61,6 +65,8 @@ I sent more photos of slides to coworkers from this talk than any of the others.
 
 I'll wait until he posts his slides to the Triagile site rather than include my photos.
 
+* * *
+
 #### Mathias Eifert - Iterative and Incremental -What's the Difference and Why Should You Care
 
 > You will walk away with both a better understanding of one of the most important underlying principles of agility and immediately applicable insights for your daily work!
@@ -70,6 +76,8 @@ Mathias delivered as promised. I was glad my co-worked attended this talk with m
 I took away a lot of points from this talk. Notably that at work we are doing Agile-Scrum-Fall rather than Agile. But the one that I think I need to embrace was the final note I took.
 
 > Don't look at Agile only as a way to deliver software,  look at it as a way to manage risk.
+
+* * *
 
 #### Closing Session - WorldCafe workshop
 
