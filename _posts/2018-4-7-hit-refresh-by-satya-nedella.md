@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: Hit Refresh by Satya Nadella
+title: Book Review - Hit Refresh by Satya Nadella
 tags: review book-review learning
 ---
 
