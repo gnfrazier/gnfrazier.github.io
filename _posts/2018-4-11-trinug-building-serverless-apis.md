@@ -12,17 +12,17 @@ I have done minimal clean up - consider this live noting.
 
 ### Benefits of Azure Functions
 
-There really are servers with serverless - you just think about the servers... less Ha!  
-Shorten development cycle from weeks or months to configure a box to a few minutes.  
-Scale apps and instances dynamically with load. Possible with IAAS and PAAS, but functions do this by definition.
-Because the functions end they are more cost effective. Only pay for what you use. Fractions of pennies at low volumes, but at a certain point they may be more expensive than a full VM.  Essentially functions are using the spare compute at the data center.  
-Ideal target is variable use, infrequent use routines.
+-   There really are servers with serverless - you just think about the servers... less Ha!  
+-   Shorten development cycle from weeks or months to configure a box to a few minutes.  
+-   Scale apps and instances dynamically with load. Possible with IAAS and PAAS, but functions do this by definition.
+-   Because the functions end they are more cost effective. Only pay for what you use. Fractions of pennies at low volumes, but at a certain point they may be more expensive than a full VM.  Essentially functions are using the spare compute at the data center.  
+-   Ideal target is variable use, infrequent use routines.
 
 ### Overview of Azure Functions
 
 #### Building the App
 
--   add a function app to a resource group
+-   Add a function app to a resource group
 -   App name becomes the root for the endpoint
     -   Name is global within azure, but you can pipe your custom domain
 -   Consumption vs App Service Plan
@@ -113,5 +113,5 @@ API development - [Postman App](https://www.getpostman.com/apps) (post and get f
 
 ### Speaker Contact Info
 
-[www.joshcarlisle.io](https://www.joshcarlisle.io)
+[www.joshcarlisle.io](https://www.joshcarlisle.io)  
 [@joshcarlisle on twitter](https://twitter.com/joshcarlisle)
