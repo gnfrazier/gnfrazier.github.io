@@ -4,12 +4,18 @@ title: Trinug Meetup - Building Serverless APIs with Azure Functions with Josh C
 tags: Azure API serverless
 ---
 
+<div class="img_center">
+  ![Azure Functions Logo]({{ site.baseurl }}/images/azure-functions-logo.png)
+</div>
 My notes from the April 11th meeting of TriNug. I don't go to many TriNug events, but the topic for this one was too close to where I want to go with services and jobs at work... If it runs in less than 5 minutes and we can do it in C# or Java, then function should be the first option - not the last. 
 
 I have done minimal cleanup - consider this live noting. 
 
 * * *
 
+<div class="img_center">
+  ![Josh Carlisle presenting Building Serverless APIs with Azure Functions]({{ site.baseurl }}/images/azure-functions-josh-carlisle.jpg)
+</div>
 ### Benefits of Azure Functions
 
 -   There really are servers with serverless - you just think about the servers... less Ha!  
@@ -67,9 +73,11 @@ I have done minimal cleanup - consider this live noting.
 
 ### Anatomy of a Function
 
-[photo]
-Trigger Binding - highlighted
-Input Binding - highlighted
+<div class="img_center">
+  ![Josh Carlisle slide highlighting bindings in Azure Functions](<{{ site.baseurl }}/images/azure-functions-c-sharp-bindings-josh-carlisle.jpg>)
+*Trigger Binding and Input Binding in C#*
+</div>
+
 Keep in mind keys, if public then anybody can hit the endpoint
 
 ### Basic Azure Functions with VS
