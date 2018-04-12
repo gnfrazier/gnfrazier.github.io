@@ -87,6 +87,8 @@ This workshop was a big confidence booster for me. I found I was speaking more, 
 
 ### Final Thoughts
 
+The organizers have posted the [slides from most of the talks in one place](http://triagile.com/2018-presentations/ "TriAgile.com - 2018 Presentations"). I am still stunned how many conferences don't do this. 
+
 I will probably attend next year. In preparing for this year's conference I went through my notes from last year and found I did apply some of the things I learned there. My hat is off to Devin and the other organizers. As far as I could tell the whole thing went off without a hiccup. 
 
 At the conclusion of the conference, they had the live capture boards from every session posted in the lobby. I went through and read them all on my way out. A nice touch.
