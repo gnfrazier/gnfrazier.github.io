@@ -103,7 +103,7 @@ API development - [Postman App](https://www.getpostman.com/apps) (post and get f
 -   Ensure your functions are doing small amounts of work 
 -   Breakdown large input files by a smaller number of rows
 -   Queues that are implemented in at front end may impact the traditional request flow
--   Lots to orchestrate? Consider Durable Functions. Logic controller and flow controller.
+-   Lots to orchestrate? Consider [Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-install). Logic controller and flow controller.
 
 ### [Azure Function Proxies](https://azure.microsoft.com/en-us/updates/announcing-azure-functions-proxies-in-public-preview/)
 
