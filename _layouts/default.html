@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    {% include head.html %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    
-    
-
+      
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -18,6 +17,11 @@
   </head>
 
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJH63T7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
