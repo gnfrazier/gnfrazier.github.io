@@ -25,3 +25,9 @@ window.addEventListener("load", function () {
 It triggered what I can only explain as a 'Flight or Fight' response. Elevated heart rate, sweating, nervousness. While there were more than  2 { } in the snippet he sent, it was just a little JavaScript. 
 
 I am sure _Timor Crispus Adstringit_ is not uncommon. Frequently "what's with all these curly braces?" is expressed on various podcasts I listen to. I feel the need to at least have a good understanding of JavaScript. How can I overcome this annoying condition?
+
+### Update 01/15/2019
+
+It is almost a year after the first publication date of this post. While written as a tongue-in-cheek commentary on non-whitespace delimited languages it is a fair assessment of how I felt at the time. 
+
+With some irony, my attendance at Pycon 2018 cemented the fact that I needed to know some JavaScript to be relevant. So I started an on-line JavaScript course and found it fun and delightful. I'll post about that at some point. 
