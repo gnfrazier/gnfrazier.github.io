@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My Introduction to ipyleaflet Jupyter Widget 
+title: Review: iPyleaflet Jupyter Widget 
 tags: jupyter maps gis learning
 ---
 
-Recently I had a project were I need to plot locations on a map, the data was already in geopandas and I needed to add basemaps to the background of the plots to add context. 
+Recently I had a project were I needed to plot locations on a map, the data was already in geopandas and I needed to add basemaps to the background of the plots to add context. 
 
 One of the libraries mentioned at the March Tripython meeting was [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet), so I gave it a try.
 
