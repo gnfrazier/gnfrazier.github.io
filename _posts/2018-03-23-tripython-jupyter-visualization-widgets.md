@@ -8,7 +8,7 @@ tags: jupyter python meetups tools jupyter-widgets
 
 **Interactive 3D and 2D Visualizations**   
 
-[ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - will fetch interactive maps, you can zoom in, draw polygons etc.  Lots of [map providers listed with previewer](https://leaflet-extras.github.io/leaflet-providers/preview/)
+[ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - will fetch interactive maps, you can zoom in, draw polygons etc.  Lots of [map providers listed with previewer](https://leaflet-extras.github.io/leaflet-providers/preview/). (Update: see my post [Review: iPyleaflet Jupyter Widge](/intro-to-ipyleaflet/))
 
 [geonotebook](https://github.com/OpenGeoscience/geonotebook) - developed by Kitware. Client server environment 
 
