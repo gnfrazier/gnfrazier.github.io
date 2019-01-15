@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Jupyter Visulization Tools for 2D and 3d Images
+title: 6 Jupyter Visualization Tools for 2D and 3d Images
 tags: jupyter python meetups tools jupyter-widgets
 ---
 
