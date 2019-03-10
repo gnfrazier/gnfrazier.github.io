@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analytics Forward - An Unconference
-tags: data conference 
+tags: data conference analytics_forward
 ---
 
 This is my 3rd Analytics Forward. It is always a good conference, even more so now that I know so many people in the community. 
