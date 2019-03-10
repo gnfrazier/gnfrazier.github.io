@@ -61,4 +61,3 @@ So will I pitch next year? Yes, I think I will. Maybe by then my 'Walks of Natha
 [Analytics Forward Homepage](https://www.rtpanalysts.org/analytics-forward)  
 [Edward Tufte on Twitter](https://twitter.com/EdwardTufte)  
 [Jupyter with RISE slideshow by Mike Driscoll](https://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/)  
-[Analytics Forward Registrations by year Twitter thread by Xan Gregg](https://twitter.com/xangregg/status/1104358014386139136)  
