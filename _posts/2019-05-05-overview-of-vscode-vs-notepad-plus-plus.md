@@ -7,34 +7,34 @@ tags: editors, coding, review
 One of the closing questions for Micheal Kennedy's Talk Python to Me podcast is "What editor do you use?"
 In the last year or so the answer has frequently been VSCode. In the recently released [2019 Stack Overflow Developer Survey](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/) VSCode took over the top spot as the editor of choice. 
 
-![{{ site.baseurl }}/images/stack-over-flow-editors-2019.png](https://insights.stackoverflow.com/survey/2019?utm_source=so-owned&utm_medium=blog&utm_campaign=dev-survey-2019&utm_content=launch-blog#development-environments-and-tools "Top 10 editors from Stack Overflow 2019 Survey")
+![{{ site.baseurl }}images/stack-over-flow-editors-2019.png](https://insights.stackoverflow.com/survey/2019?utm_source=so-owned&utm_medium=blog&utm_campaign=dev-survey-2019&utm_content=launch-blog#development-environments-and-tools "Top 10 editors from Stack Overflow 2019 Survey")
 
 The next free and opensource editor on the list (coming in at number 3) is the venerable Notepad ++, in this post we will compare the feature sets of the two programs.
 
-| **Spec**                      | **Notepad ++** | **VSCode**            |
-| ----------------------------- | -------------- | --------------------- |
-| Initial Release               | 11/24/2003     | 4/29/2015             |
-| Supported OS                  | Windows Only   | Windows, MacOS, Linux |
-| Size                          | 3.63 MB        | ~70 MB                |
-| License                       | GPL 2          | MIT                   |
-| Syntax Highlighting Languages | 78             | 42                    |
-| Syntax Folding                | Yes            | Yes                   |
-| Customizable GUI              | Yes            | Yes                   |
-| Word Completion               | Yes            | Yes                   |
-| Function Completion           | Yes            | Yes                   |
-| Tab Interface                 | Yes            | Yes                   |
-| WYSIWYG preview               | Yes            | Yes                   |
-| Zoom                          | Yes            | Yes                   |
-| Automations                   | Macros         | Snippets and Macros   |
-| Source Control Integration    | No             | Yes                   |
-| Add-Ons                       | Plugins        | Extensions            |
-| Remote Development            | No             | In Beta               |
-| Collaborative Coding          | No             | Extension             |
-| Embedded Chat                 | No             | Extension             |
-| Embedded Voice                | No             | Extension             |
-| Embedded Whiteboard           | No             | Extension             |
-| Linter Support                | Community      | Extension             |
-| Dark Theme                    | Plugin         | Default               |
+| Spec                          | Notepad ++   | VSCode                |
+| ----------------------------- | ------------ | --------------------- |
+| Initial Release               | 11/24/2003   | 4/29/2015             |
+| Supported OS                  | Windows Only | Windows, MacOS, Linux |
+| Size                          | 3.63 MB      | ~70 MB                |
+| License                       | GPL 2        | MIT                   |
+| Syntax Highlighting Languages | 78           | 42                    |
+| Syntax Folding                | Yes          | Yes                   |
+| Customizable GUI              | Yes          | Yes                   |
+| Word Completion               | Yes          | Yes                   |
+| Function Completion           | Yes          | Yes                   |
+| Tab Interface                 | Yes          | Yes                   |
+| WYSIWYG preview               | Yes          | Yes                   |
+| Zoom                          | Yes          | Yes                   |
+| Automations                   | Macros       | Snippets and Macros   |
+| Source Control Integration    | No           | Yes                   |
+| Add-Ons                       | Plugins      | Extensions            |
+| Remote Development            | No           | In Beta               |
+| Collaborative Coding          | No           | Extension             |
+| Embedded Chat                 | No           | Extension             |
+| Embedded Voice                | No           | Extension             |
+| Embedded Whiteboard           | No           | Extension             |
+| Linter Support                | Community    | Extension             |
+| Dark Theme                    | Plugin       | Default               |
 
 So far as specs and supported features, the two applications are at feature parity. One clear win for Notepad ++ is its small install size of less than 4 MB, compared to about 70 MB for VSCode. This is for the core install, with extensions VSCode on my system is about 120 MB. A clear advantage for VSCode is that it is cross-platform for Windows, MacOS and Linux. This may or may not be a deal breaker for you, but having the same editor no matter where you are writing is a feature that I really like. 
 
