@@ -7,7 +7,7 @@ tags: editors, coding, review
 One of the closing questions for Micheal Kennedy's Talk Python to Me podcast is "What editor do you use?"
 In the last year or so the answer has frequently been VSCode. In the recently released [2019 Stack Overflow Developer Survey](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/) VSCode took over the top spot as the editor of choice. 
 
-![https://gnfrazier.me/images/stack-over-flow-editors-2019.png](https://insights.stackoverflow.com/survey/2019?utm_source=so-owned&utm_medium=blog&utm_campaign=dev-survey-2019&utm_content=launch-blog#development-environments-and-tools "Top 10 editors from Stack Overflow 2019 Survey")
+[![Top 10 editors from Stack Overflow 2019 Survey](<{{ site.baseurl }}/images/stack-over-flow-editors-2019.png>)](https://insights.stackoverflow.com/survey/2019?utm_source=so-owned&utm_medium=blog&utm_campaign=dev-survey-2019&utm_content=launch-blog#development-environments-and-tools)
 
 The next free and opensource editor on the list (coming in at number 3) is the venerable Notepad ++, in this post we will compare the feature sets of the two programs.
 
