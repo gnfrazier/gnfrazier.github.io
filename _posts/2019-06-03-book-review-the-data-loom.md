@@ -22,7 +22,7 @@ Few touches on tools and going beyond just using tools.
 
 So many parts of this book rang true to me, if I ran through them all I would be better served by just linking to the whole book. The ones that have stuck are the importance of Domain Knowledge, Critical Thinking, Systems Thinking and Statistical Thinking. Critical Thinking is not something I had thought about much since High School, while many classes and activities have danced around the methods of critical thinking, few have addressed it by those terms. 
 
-Who is this book for? It is ideal for analysts and data visualization specialists that may not have formal training in working with data. Business managers and executives that sponsor data projects or consume their output will be well served by boning up on the principles that Few explores.
+Who is this book for? It is ideal for analysts and data visualization specialists that may not have formal training in working with data. Business managers and executives that sponsor data projects or consume the output of data analysis platforms will be well served by boning up on the principles that Few explores.
 
 My final take? Get it. Read it. Pass it along, but get it back because you will probably want to dig back into it again in a few months. 
 
