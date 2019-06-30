@@ -4,6 +4,10 @@ title: Book Review - Everyday Information Architecture
 tags: book-review ia content-strategy opinion review
 ---
 
+<div class="img_center">
+  <img src="{{ site.baseurl }}/images/book-review-everyday-information-architecture.png" alt="Book Cover of Everyday Information Architecture">
+</div>
+
 ;TLDR A good primer if you are planning your first site re-organization, includes a lot of core fundamentals for those new to IA and general UX practices. 
 
 [<u>Everyday Information Architecture</u> by Lisa Maria Martin](https://abookapart.com/products/everyday-information-architecture) is a 2019 release from A Book Apart, the publishing arm of A List Apart. I purchased this on a whim as I have always wanted to add more structure to how I tackle site re-organizations.
