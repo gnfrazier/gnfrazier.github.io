@@ -5,7 +5,7 @@ tags: review book-review open-source leadership
 ---
 
 <div class="img_center">
-  <img src="{{ site.baseurl }}/images/book-review-open-organization.png" alt="Book Cover of The Open Organization">
+  <img src="{{ site.baseurl }}/images/book-review-open-organizaion.png" alt="Book Cover of The Open Organization">
 </div>
 
 ;TLDR A flat organization structure may not be right for every company, it brings special challenges that some leaders may not be prepared to embrace. Whitehurst walks through how Red Hat has capitalized on transparency and meritocracy to become a leading software company. 
