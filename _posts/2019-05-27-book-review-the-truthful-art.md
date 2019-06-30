@@ -5,7 +5,7 @@ tags: book books review dataviz graphics
 ---
 
 <div class="img_center">
-  <img src="{{ site.baseurl }}/images/book-review-turthful-art.png" alt="Book Cover of The Truthful Art">
+  <img src="{{ site.baseurl }}/images/book-review-truthful-art.png" alt="Book Cover of The Truthful Art">
 </div>
 ;TLDR - Loved it. A good, tool agnostic overview of many disciplines of data visualization.
 
