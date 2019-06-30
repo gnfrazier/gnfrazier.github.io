@@ -4,6 +4,9 @@ title: Book Review - The Data Loom by Stephen Few
 tags: review book-review data data-viz learning
 ---
 
+<div class="img_center">
+  <img src="{{ site.baseurl }}/images/book-review-data-loom.jpg" alt="Book Cover of The Data Loom">
+</div>
 ;TLDR A thought provoking book for seasoned analysts and business leaders that have slowly lost sight of their true purpose. 
 
 At just 122 pages [<u>The Data Loom</u> by Stephen Few](http://www.stephen-few.com/dataloom.php) is succinct, to the point, and at times a bit blunt. For me this book added 4 books to my 'Must Read' list, and a few more that I'll keep in mind for later. My main takeaway was to think about what I am doing when I am working with data. Not to tell a story around the data, but to extract the truth from the data.

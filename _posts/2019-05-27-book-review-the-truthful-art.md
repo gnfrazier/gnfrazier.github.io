@@ -4,6 +4,9 @@ title: Book Review - The Truthful Art by Alberto Cairo
 tags: book books review dataviz graphics
 ---
 
+<div class="img_center">
+  <img src="{{ site.baseurl }}/images/book-review-turthful-art.png" alt="Book Cover of The Truthful Art">
+</div>
 ;TLDR - Loved it. A good, tool agnostic overview of many disciplines of data visualization.
 
 First, my confession. It took me nearly 2 years to read [The Truthful Art](http://www.thefunctionalart.com/p/the-truthful-art-book.html). I attribute this to wanting to read it when I had time to focus on reading and thinking about the topic at hand rather than 15 or 20 minutes at the end of my lunch hour. A good way to think of it is that I wanted to take the time to savor a fine dinner. Rich full-color graphics, textbook quality pages, good typography I wish I had gotten it in hardcover. From the first page, I could tell it was going to be good. Unfortunately, much of my time to read is right before bed, and frequently, I felt like I didn't have the brain power left at the end of the day to do this book justice.
